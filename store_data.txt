@@ -1,0 +1,9 @@
+Electronics
+Laptop 1000 43 01-01-2025
+Smartphone 500 194 01-02-2025
+Groceries
+Milk 1.5 91 12-12-2024
+Bread 2 128 15-12-2024
+Furniture
+Sofa 300 9 10-12-2024
+Table 150 22 01-01-2025
